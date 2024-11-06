@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/04 09:35:31.000.233,=C:\Users\amertah.LLA\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/04 09:35:31.000.250,=C:\Users\amertah.LLA\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2024/11/04 09:35:43.000.300,C:\Users\amertah.LLA\Desktop\interface2\Unit1.h=C:\Users\amertah.LLA\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2024/11/04 09:35:43.000.300,C:\Users\amertah.LLA\Desktop\interface2\Unit1.dfm=C:\Users\amertah.LLA\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2024/11/04 09:35:43.000.300,C:\Users\amertah.LLA\Desktop\interface2\Unit1.cpp=C:\Users\amertah.LLA\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2024/11/04 09:35:46.000.421,C:\Users\amertah.LLA\Desktop\interface2\Project1PCH1.h=C:\Users\amertah.LLA\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/04 09:35:48.000.002,C:\Users\amertah.LLA\Desktop\interface2\Project1.cbproj=C:\Users\amertah.LLA\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2024/11/04 09:40:55.000.606,C:\Users\amertah.LLA\Desktop\interface2\Project1.cbproj=C:\Users\amertah.LLA\Desktop\interface2\Project1.cbproj</Transaction>
+    <Transaction>2024/11/04 09:41:21.000.070,C:\Users\amertah.LLA\Desktop\interface2\main.h=C:\Users\amertah.LLA\Desktop\interface2\Unit1.h</Transaction>
+    <Transaction>2024/11/04 09:41:21.000.070,C:\Users\amertah.LLA\Desktop\interface2\main.cpp=C:\Users\amertah.LLA\Desktop\interface2\Unit1.cpp</Transaction>
+    <Transaction>2024/11/04 09:41:21.000.070,C:\Users\amertah.LLA\Desktop\interface2\main.dfm=C:\Users\amertah.LLA\Desktop\interface2\Unit1.dfm</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.673,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\ServeurDonneeDrone.h</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.633,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRServeurUDP.h</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.608,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRServeurUDP.cpp</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.708,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\TelloClientUDP.cpp</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.506,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRClientTCP.h</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.479,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRClientTCP.cpp</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.711,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\TelloClientUDP.h</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.670,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\ServeurDonneeDrone.cpp</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.569,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRClientUDP.h</Transaction>
+    <Transaction>2024/11/04 09:41:40.000.544,=Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRClientUDP.cpp</Transaction>
+    <Transaction>2024/11/04 09:41:57.000.135,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\TelloClientUDP.h=</Transaction>
+    <Transaction>2024/11/04 09:41:58.000.918,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\ServeurDonneeDrone.h=</Transaction>
+    <Transaction>2024/11/04 09:41:59.000.677,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\ServeurDonneeDrone.cpp=</Transaction>
+    <Transaction>2024/11/04 09:42:00.000.286,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRServeurUDP.h=</Transaction>
+    <Transaction>2024/11/04 09:42:02.000.160,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRServeurUDP.cpp=</Transaction>
+    <Transaction>2024/11/04 09:42:02.000.929,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\TelloClientUDP.cpp=</Transaction>
+    <Transaction>2024/11/04 09:42:03.000.725,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRClientUDP.h=</Transaction>
+    <Transaction>2024/11/04 09:42:04.000.412,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRClientUDP.cpp=</Transaction>
+    <Transaction>2024/11/04 09:42:05.000.088,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRClientTCP.h=</Transaction>
+    <Transaction>2024/11/04 09:42:05.000.855,Q:\Devoir\Modules_CIEL_IR\M07_Suite\C++\IRClientTCP.cpp=</Transaction>
+    <Transaction>2024/11/04 09:42:29.000.991,=C:\Users\amertah.LLA\Desktop\interface2\IRClientUDP.cpp</Transaction>
+    <Transaction>2024/11/04 09:42:29.000.970,=C:\Users\amertah.LLA\Desktop\interface2\IRClientTCP.h</Transaction>
+    <Transaction>2024/11/04 09:42:30.000.137,=C:\Users\amertah.LLA\Desktop\interface2\IRClientTCP.cpp</Transaction>
+    <Transaction>2024/11/04 09:42:30.000.110,=C:\Users\amertah.LLA\Desktop\interface2\TelloClientUDP.cpp</Transaction>
+    <Transaction>2024/11/04 09:42:30.000.038,=C:\Users\amertah.LLA\Desktop\interface2\IRServeurUDP.cpp</Transaction>
+    <Transaction>2024/11/04 09:42:30.000.015,=C:\Users\amertah.LLA\Desktop\interface2\IRClientUDP.h</Transaction>
+    <Transaction>2024/11/04 09:42:30.000.115,=C:\Users\amertah.LLA\Desktop\interface2\TelloClientUDP.h</Transaction>
+    <Transaction>2024/11/04 09:42:30.000.061,=C:\Users\amertah.LLA\Desktop\interface2\IRServeurUDP.h</Transaction>
+    <Transaction>2024/11/04 09:42:30.000.086,=C:\Users\amertah.LLA\Desktop\interface2\ServeurDonneeDrone.h</Transaction>
+    <Transaction>2024/11/04 09:42:30.000.083,=C:\Users\amertah.LLA\Desktop\interface2\ServeurDonneeDrone.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
