@@ -12,7 +12,7 @@ TForm1 *Form1;
 //---------------------------------------------------------------------------
 __fastcall TForm1::TForm1(TComponent* Owner)
 	: TForm(Owner)
-{    client=new TelloClientUDP("172.20.21.14");
+{    client=new TelloClientUDP("192.168.10.1");
 
 //Image1->Top=200;
 //
@@ -92,9 +92,14 @@ void __fastcall TForm1::Button10Click(TObject *Sender)
 void __fastcall TForm1::Image1MouseUp(TObject *Sender, TMouseButton Button, TShiftState Shift,
 		  int X, int Y)
 {
+
 	  click=0;
+	  int G=Image1->Top-355;
+	  int D=Image1->Left-556;
+
 	  Image1->Top=355;
-	  Image1->Left=556;
+	 Image1->Left=556;
+	  client->DeplacerXYZ(G,D,0,TrackBar3->Position);
 }
 //---------------------------------------------------------------------------
 

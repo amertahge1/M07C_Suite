@@ -4,7 +4,7 @@ object Form1: TForm1
   Caption = 'Form1'
   ClientHeight = 745
   ClientWidth = 829
-  Color = clBtnFace
+  Color = clWhite
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -31,7 +31,6 @@ object Form1: TForm1
     Width = 30
     Height = 29
     AutoSize = True
-    ParentShowHint = False
     Picture.Data = {
       0954506E67496D61676589504E470D0A1A0A0000000D494844520000001E0000
       001D0806000000BDA4DC0C000000017352474200AECE1CE90000000467414D41
@@ -98,7 +97,6 @@ object Form1: TForm1
       3641B1BB84CD776EC20777F56245676BD3F0B87AA4DE9031D0BC53F923E35E3D
       7E699213277581154B45ACE22AB3687235AC74E9A6D27CFC1F81B109E584C67A
       240000000049454E44AE426082}
-    ShowHint = False
     OnMouseDown = Image1MouseDown
     OnMouseMove = Image1MouseMove
     OnMouseUp = Image1MouseUp
